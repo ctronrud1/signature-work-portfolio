@@ -10,8 +10,7 @@ I chose these projects because they each represent different technical skills an
 
 ## Budget Tracker Application
 
-**Repository Link:**  
-[Budget Tracker Application](https://github.com/ctronrud1/budget-tracker-app)
+Repository: [europe-trip-budget-tracker](https://github.com/ctronrud1/europe-trip-budget-tracker)
 
 ### Why I Chose This Project
 
@@ -32,8 +31,7 @@ Working on this project pushed me to think more deeply about application structu
 
 ## Solar System Animation
 
-**Repository Link:**  
-[Solar System Animation](https://github.com/ctronrud1/solar-system-simulation)
+Repository: [solar-system-animation](https://github.com/ctronrud1/solar-system-animation)
 
 ### Why I Chose This Project
 
@@ -54,8 +52,7 @@ This project helped me become more comfortable working with styling, animations,
 
 ## Snapchat Media Archiver
 
-**Repository Link:**  
-[Snapchat Media Archiver](https://github.com/ctronrud1/snapchat-media-archiver)
+Repository: [snapchat-archive](https://github.com/ctronrud1/snapchat-archive)
 
 ### Why I Chose This Project
 
